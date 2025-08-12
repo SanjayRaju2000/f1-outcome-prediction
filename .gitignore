@@ -14,3 +14,7 @@ data/
 # OS
 .DS_Store
 Thumbs.db
+
+# Ignore all data files but keep the folder
+data/*
+!data/.gitkeep
