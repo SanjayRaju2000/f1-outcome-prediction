@@ -1,20 +1,11 @@
-# Python
 __pycache__/
 *.pyc
 .venv/
 .env
-
-# Data
-data/
-!data/.gitkeep
-
-# Jupyter
 .ipynb_checkpoints/
-
-# OS
 .DS_Store
 Thumbs.db
 
-# Ignore all data files but keep the folder
-data/*
-!data/.gitkeep
+# Ignore data contents but keep the folder
+/data/*
+!/data/.gitkeep
