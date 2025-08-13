@@ -34,10 +34,10 @@ By combining predictive accuracy with feature-level insights, this project provi
 
 ## Setup
 \`\`\`bash
-# Create and activate virtual env
+### Create and activate virtual env
 python -m venv .venv
 source .venv/Scripts/activate   # Git Bash
 
-# Install dependencies
+### Install dependencies
 pip install -r requirements.txt
 \`\`\`
